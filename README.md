@@ -13,7 +13,6 @@ Quick Invoice is an invoice management system that enables small business owners
 List of technologies and frameworks used in the project:
   - Django
   - Python
-  - Vue
 
 ## Installation
 
