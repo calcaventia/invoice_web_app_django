@@ -1,6 +1,6 @@
 # Quick Invoice
 
-Quick Invoice is a an invoice management system that enables small business owners to generate invoices and send them to their clients.
+Quick Invoice is an invoice management system that enables small business owners to generate invoices and send them to their clients.
 
 ## Table of Contents
 
@@ -33,22 +33,22 @@ List of technologies and frameworks used in the project:
 
 4. Set up virtual environment:
 
-  -For Windows:
+  - For Windows:
     ```bash
     - python -m venv venv
     ```
-  -For macOS/Linux:
+  - For macOS/Linux:
     ```bash
     - python3 -m venv venv
     ```
   
 5. Activate virtual environment:
 
-  -For Windows:
+  - For Windows:
     ```bash
     - venv\Scripts\activate
     ```
-  -For macOS/Linux:
+  - For macOS/Linux:
     ```bash
     - venv\bin\activate
     ```
