@@ -1,4 +1,4 @@
-#Quick Invoice
+# Quick Invoice
 
 Quick Invoice is a an invoice management system that enables small business owners to generate invoices and send them to their clients.
 
@@ -8,14 +8,14 @@ Quick Invoice is a an invoice management system that enables small business owne
 - [Installation](#installation)
 - [Usage](#usage)
 
-##Technologies Used
+## Technologies Used
 
 List of technologies and frameworks used in the project:
   - Django
   - Python
   - Vue
 
-##Installation
+## Installation
 
 1. Install or update Python and Django.
 
@@ -33,22 +33,22 @@ List of technologies and frameworks used in the project:
 
 4. Set up virtual environment:
 
-  For Windows:
+  -For Windows:
     ```bash
     - python -m venv venv
     ```
-  For macOS/Linux:
+  -For macOS/Linux:
     ```bash
     - python3 -m venv venv
     ```
   
 5. Activate virtual environment:
 
-  For Windows:
+  -For Windows:
     ```bash
     - venv\Scripts\activate
     ```
-  For macOS/Linux:
+  -For macOS/Linux:
     ```bash
     - venv\bin\activate
     ```
@@ -65,7 +65,7 @@ List of technologies and frameworks used in the project:
     python manage.py runserver
     ```
 
-##Usage
+## Usage
 
 -Once the server is running, access the application in your web browser at `http://localhost:8000`.
 -To access the Django admin interface, go to http://localhost:8001/admin in your web browser. Create a superuser account if needed.
