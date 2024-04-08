@@ -18,7 +18,7 @@ class Invoice(models.Model):
     client_address1 = models.CharField(max_length=255, blank=True, null=True)
     client_address2 = models.CharField(max_length=255, blank=True, null=True)
     client_zipcode = models.CharField(max_length=255, blank=True, null=True)
-    client_place = models.CharField(max_length=255, blank=True, null=True)
+    client_province = models.CharField(max_length=255, blank=True, null=True)
     client_country = models.CharField(max_length=255, blank=True, null=True)
     client_contact_person = models.CharField(max_length=255, blank=True, null=True)
     client_contact_reference = models.CharField(max_length=255, blank=True, null=True)
