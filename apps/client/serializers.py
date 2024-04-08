@@ -16,7 +16,7 @@ class ClientSerializer(serializers.ModelSerializer):
             "address1",
             "address2",
             "zipcode",
-            "place",
+            "province",
             "country",
             "contact_person",
             "contact_reference"
